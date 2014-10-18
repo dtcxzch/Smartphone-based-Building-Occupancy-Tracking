@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SocketTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="data_prompt">Accelerometer status:</string>
+    <string name="start_message">Now running location-pinpoint program. Will use signal strength to pinpoint location</string>
+    <string name="data_val">Total %1$d messages sent</string>
+    <string name="add_server">Add Server</string>
+    <string name="ip_hint">###.###.###.###</string>
+    <string name="title_activity_add_server_form">AddServerForm</string>
+    <string name="server_title">Server List</string>
+    <string name="add">Add Server</string>
+    <string name="back">Back</string>
+    <string name="server_list">%1$s</string>
+    <string name="delete_servers">Delete All</string>
+    <string name="title_activity_background">Background</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
