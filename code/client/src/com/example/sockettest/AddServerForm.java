@@ -33,10 +33,6 @@ public class AddServerForm extends Activity {
 		Resources res = getResources(); // string of servers to display
 		String serverString = server;
 		
-//		for (String s : servers) {
-//			serverString += s + "\n";
-//		}
-		
 	    String update = String.format(res.getString(R.string.server_list), serverString);
 	    ((TextView)(this.findViewById(R.id.serverList))).setText(update);
 		
